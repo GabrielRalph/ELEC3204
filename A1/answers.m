@@ -41,14 +41,10 @@ fprintf("DV_o = %s\n", funit(DVo, "V"));
 %%
 time = out.V_L.time * 1000; %ms
 
-range = 1:round(length(time) * 0.6);
-tinc = (time(range(end)) - time(1))/100;
-trans_range = round(length(time) * 0.45):length(time);
-
 V_L = out.V_L.signals.values;
 Vo = out.Vo.signals.values;
 Vsw = out.Vsw.signals.values;
-i_L = out.i_L.signals.values * 1000; % mA
+i_L = out.i_L.signals.values; % mA
 i_co = out.i_co.signals.values;
 pwm = out.pwm.signals.values;
 i_D = i_L .* (1 - pwm);
@@ -61,40 +57,62 @@ colors = [
 ]/255;
 
 % Question 4
-sig = Vo;
-range = trans_range;
-sigunit = "V";
-signame = "v_o";
-ptitle = "Output Voltage (SS)";
+
+
+
+% MAKE PLOT
+color = colors(1,:);
+showbounds = 1;
+sigunit = "A";
+signame = "i_L";
+ptitle = "Current over Inductor";
+sig = i_L;
+trans_range = round(length(time) * 0.6):length(time);
+range = 1:round(length(time) * 0.6);
+% range = round(length(time) * 0.45):round(length(time) * 1);
+
+
+
+tinc = (time(range(end)) - time(range(1)))/100;
 
 
 avg = mean(sig(trans_range));
 maxi = max(sig(trans_range));
 mini = min(sig(trans_range));
 
-plot(time(range), sig(range), "Color", colors(2, :));
+plot(time(range), sig(range), "Color", color);
 xlabel("time (ms)");
 ylabel(sprintf("%s (%s)", signame, sigunit));
 axis([min(time(range)), max(time(range)), min(sig(range)), max(sig(range))]);
 title(sprintf("%s (%s)", ptitle, signame));
-subtitle(sprintf("\\Delta %s = %s", signame, funit(maxi - mini, sigunit)));
+subtitle(sprintf("\\Delta %s = %s,     AVG(%s) = %s", signame, funit(maxi - mini, sigunit), signame, funit(avg, sigunit)));
 
 yline(avg);
+text(time(range(end)) + .5*tinc, avg, sprintf("= %s", funit(avg, sigunit)));
 
-
-%%
-yline(maxi);
-yline(mini);
-
-text(100.5*tinc, avg, sprintf("AVG(%s) = %.0f", signame, avg))
-text(100.5*tinc, maxi, sprintf("%.0f", maxi), "VerticalAlignment","bottom");
-text(100.5*tinc, mini, sprintf("%.0f", mini), "VerticalAlignment","top");
+if (showbounds)
+    yline(maxi);
+    yline(mini);
+    
+    text(time(range(end)) + .5*tinc, maxi, sprintf("= %s", funit(maxi, sigunit)));
+    text(time(range(end)) + .5*tinc, mini, sprintf("= %s", funit(mini, sigunit)));
+end
 
 
 pos = get(gca, 'Position');
 pos(1) = 0.1;
-pos(3) = 0.77;
-set(gca, 'Position', pos)
+pos(3) = 0.80;
+set(gca, 'Position', pos);
+
+
+%%
+% % bucksum;
+% handle=get_param('bucksim/Subsystem','handle');
+% print(handle,'-dsvg','fig-sim-sub');
+% 
+% handle=get_param('bucksim','handle');
+% print(handle,'-dsvg','fig-sim');
+% % winopen MyModel.svg;
 
 function str = funit(value, qty)
     num = value;
