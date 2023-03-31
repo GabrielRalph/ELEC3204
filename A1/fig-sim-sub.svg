@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="621.1px" height="241.3px" viewBox="0 0 621.1 241.3" style="enable-background:new 0 0 621.1 241.3;" xml:space="preserve"
+	>
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:none;}
+	.st2{font-family:'Helvetica';}
+	.st3{font-size:10px;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:2;}
+	.st6{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;}
+	.st8{fill:none;stroke:#323232;stroke-miterlimit:10;}
+	.st9{enable-background:new    ;}
+	.st10{letter-spacing:5;}
+</style>
+<g>
+	<g transform="matrix(1,0,0,1,0,0)">
+		<path vector-effect="none" class="st0" d="M8.5,7.6h604v226H8.5V7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,142,118)">
+		<path vector-effect="none" class="st0" d="M8.5,7.6h13.7v12H8.5V7.6z"/>
+	</g>
+	<rect x="145.5" y="120.6" class="st1" width="24" height="22"/>
+	<g transform="matrix(1,0,0,1,142,118)">
+		<text transform="matrix(1 0 0 1 9.5487 16.3208)" class="st2 st3">Vo</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,220,188)">
+		<path vector-effect="none" class="st0" d="M8.5,7.6h16.2v12H8.5V7.6z"/>
+	</g>
+	<rect x="223.5" y="190.6" class="st1" width="26" height="22"/>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,252,118)">
+		<path vector-effect="none" class="st4" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="260.5" y="125.6" class="st1" width="30" height="30"/>
+	<g transform="matrix(1,0,0,1,252,118)">
+		<path vector-effect="none" class="st1" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="259.6" y="124.7" class="st1" width="34" height="34"/>
+	<g transform="matrix(1,0,0,1,247.008,118.086)">
+		<path vector-effect="none" d="M17.6,20.3v-0.7c0.6-0.1,1.1-0.2,1.3-0.3c0.3-0.1,0.4-0.5,0.6-1h0.7v7h-0.9v-5H17.6 M24.4,18.1h0.7
+			l-2.3,7.2h-0.7L24.4,18.1 M25.7,18.1h1v6.3h3.6v0.9h-4.6V18.1"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,252.5,118.5)">
+		<path vector-effect="none" class="st5" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,192,118)">
+		<path vector-effect="none" class="st4" d="M38.5,22.6c0,8.3-6.7,15-15,15c-8.3,0-15-6.7-15-15c0-8.3,6.7-15,15-15
+			C31.8,7.6,38.5,14.3,38.5,22.6z"/>
+	</g>
+	<rect x="200.5" y="125.6" class="st1" width="30" height="30"/>
+	<g transform="matrix(1,0,0,1,197,133)">
+		<text transform="matrix(1 0 0 1 5.6424 10.0239)" class="st2 st3">−</text>
+	</g>
+	<rect x="200.5" y="125.6" class="st1" width="30" height="30"/>
+	<g transform="matrix(1,0,0,1,207,143)">
+		<text transform="matrix(1 0 0 1 5.6424 10.0239)" class="st2 st3">+</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,192.5,118.5)">
+		<path vector-effect="none" class="st5" d="M38.5,22.6c0,8.3-6.7,15-15,15c-8.3,0-15-6.7-15-15c0-8.3,6.7-15,15-15
+			C31.8,7.6,38.5,14.3,38.5,22.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,317,118)">
+		<path vector-effect="none" class="st0" d="M8.5,7.6h30v30h-30V7.6z"/>
+	</g>
+	<rect x="325.5" y="125.6" class="st1" width="31" height="31"/>
+	<g transform="matrix(1,0,0,1,317,118)">
+		<path vector-effect="none" class="st1" d="M8.5,7.6h31v31h-31V7.6z"/>
+	</g>
+	<rect x="324.5" y="124.6" class="st1" width="34" height="34"/>
+	<g transform="matrix(1,0,0,1,316,117)">
+		<path vector-effect="none" class="st6" d="M24.8,33.9h3l2-17h3"/>
+	</g>
+	<rect x="331.3" y="126.6" class="st1" width="8.5" height="28.1"/>
+	<g transform="matrix(0.85,0,0,0.85,322.75,118.975)">
+		<path vector-effect="none" class="st7" d="M11.1,25h7v1h-7V25z"/>
+	</g>
+	<rect x="331.3" y="126.6" class="st1" width="8.5" height="28.1"/>
+	<g transform="matrix(0.85,0,0,0.85,322.75,118.975)">
+		<path vector-effect="none" d="M17,21v-0.2c-1.1,0-1.3-0.3-1.3-0.9v-8.4l-0.1,0L13,12.8V13l0.4-0.1c0.3-0.1,0.5-0.2,0.6-0.2
+			c0.3,0,0.4,0.2,0.4,0.7v6.3c0,0.8-0.3,1.1-1.3,1.1V21H17z"/>
+	</g>
+	<rect x="331.3" y="126.6" class="st1" width="8.5" height="28.1"/>
+	<g transform="matrix(0.85,0,0,0.85,322.75,118.975)">
+		<path vector-effect="none" d="M17.4,31.8h-0.2C17,32,16.9,32,16.7,32c-0.1,0-0.2,0-0.5-0.1c-0.4-0.1-0.5-0.1-0.8-0.1
+			c-1,0-1.7,0.6-1.7,1.5c0,0.4,0.3,1.1,0.9,1.8c0.5,0.7,0.8,1.2,0.8,1.6c0,0.7-0.4,1.1-1.1,1.1c-0.7,0-1.2-0.6-1.4-1.9h-0.2
+			l-0.3,2.2h0.2c0.1-0.2,0.3-0.3,0.4-0.3c0.2,0,0.3,0,0.6,0.1c0.3,0.1,0.5,0.1,0.8,0.1c1.2,0,2-0.7,2-1.9c0-0.5-0.3-1.1-1-1.9
+			c-0.5-0.6-0.8-1-0.8-1.4c0-0.5,0.3-0.8,0.8-0.8c0.7,0,1.1,0.5,1.2,1.6h0.2L17.4,31.8z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,317.5,118.5)">
+		<path vector-effect="none" class="st5" d="M8.5,7.6h30v30h-30V7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,382,93)">
+		<path vector-effect="none" class="st0" d="M8.5,7.6h30v30h-30V7.6z"/>
+	</g>
+	<rect x="390.5" y="100.6" class="st1" width="31" height="31"/>
+	<g transform="matrix(1,0,0,1,382,93)">
+		<path vector-effect="none" class="st1" d="M8.5,7.6h31v31h-31V7.6z"/>
+	</g>
+	<rect x="389.5" y="99.6" class="st1" width="34" height="34"/>
+	<g transform="matrix(1,0,0,1,381,91.9999)">
+		<path vector-effect="none" class="st6" d="M24.8,33.9h3l2-17h3"/>
+	</g>
+	<rect x="396.3" y="101.6" class="st1" width="8.5" height="28.1"/>
+	<g transform="matrix(0.85,0,0,0.85,387.75,93.975)">
+		<path vector-effect="none" class="st7" d="M11.1,25h7v1h-7V25z"/>
+	</g>
+	<rect x="396.3" y="101.6" class="st1" width="8.5" height="28.1"/>
+	<g transform="matrix(0.85,0,0,0.85,387.75,93.975)">
+		<path vector-effect="none" d="M17,21v-0.2c-1.1,0-1.3-0.3-1.3-0.9v-8.4l-0.1,0L13,12.8V13l0.4-0.1c0.3-0.1,0.5-0.2,0.6-0.2
+			c0.3,0,0.4,0.2,0.4,0.7v6.3c0,0.8-0.3,1.1-1.3,1.1V21H17z"/>
+	</g>
+	<rect x="396.3" y="101.6" class="st1" width="8.5" height="28.1"/>
+	<g transform="matrix(0.85,0,0,0.85,387.75,93.975)">
+		<path vector-effect="none" d="M17.4,31.8h-0.2C17,32,16.9,32,16.7,32c-0.1,0-0.2,0-0.5-0.1c-0.4-0.1-0.5-0.1-0.8-0.1
+			c-1,0-1.7,0.6-1.7,1.5c0,0.4,0.3,1.1,0.9,1.8c0.5,0.7,0.8,1.2,0.8,1.6c0,0.7-0.4,1.1-1.1,1.1c-0.7,0-1.2-0.6-1.4-1.9h-0.2
+			l-0.3,2.2h0.2c0.1-0.2,0.3-0.3,0.4-0.3c0.2,0,0.3,0,0.6,0.1c0.3,0.1,0.5,0.1,0.8,0.1c1.2,0,2-0.7,2-1.9c0-0.5-0.3-1.1-1-1.9
+			c-0.5-0.6-0.8-1-0.8-1.4c0-0.5,0.3-0.8,0.8-0.8c0.7,0,1.1,0.5,1.2,1.6h0.2L17.4,31.8z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,382.5,93.5)">
+		<path vector-effect="none" class="st5" d="M8.5,7.6h30v30h-30V7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,432,63)">
+		<path vector-effect="none" class="st4" d="M38.5,22.6c0,8.3-6.7,15-15,15c-8.3,0-15-6.7-15-15c0-8.3,6.7-15,15-15
+			C31.8,7.6,38.5,14.3,38.5,22.6z"/>
+	</g>
+	<rect x="440.5" y="70.6" class="st1" width="30" height="30"/>
+	<g transform="matrix(1,0,0,1,447,68)">
+		<text transform="matrix(1 0 0 1 5.6424 10.0239)" class="st2 st3">−</text>
+	</g>
+	<rect x="440.5" y="70.6" class="st1" width="30" height="30"/>
+	<g transform="matrix(1,0,0,1,447,88)">
+		<text transform="matrix(1 0 0 1 5.6424 10.0239)" class="st2 st3">+</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,432.5,63.5)">
+		<path vector-effect="none" class="st5" d="M38.5,22.6c0,8.3-6.7,15-15,15c-8.3,0-15-6.7-15-15c0-8.3,6.7-15,15-15
+			C31.8,7.6,38.5,14.3,38.5,22.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,252,23)">
+		<path vector-effect="none" class="st4" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="260.5" y="30.6" class="st1" width="30" height="30"/>
+	<g transform="matrix(1,0,0,1,252,23)">
+		<path vector-effect="none" class="st1" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="259.6" y="29.7" class="st1" width="34" height="34"/>
+	<g transform="matrix(1,0,0,1,247.008,23.0859)">
+		<path vector-effect="none" d="M16.7,20.3v-0.7c0.6-0.1,1.1-0.2,1.3-0.3c0.3-0.1,0.4-0.5,0.6-1h0.7v7h-0.9v-5H16.7 M23.6,18.1h0.7
+			l-2.3,7.2h-0.7L23.6,18.1 M28.2,21.4c0.5,0,0.8-0.1,1.1-0.3c0.3-0.2,0.4-0.5,0.4-1c0-0.5-0.2-0.9-0.6-1c-0.2-0.1-0.5-0.1-0.8-0.1
+			h-2.4v2.5H28.2 M25,18.1h3.3c0.5,0,1,0.1,1.4,0.2c0.7,0.3,1,0.9,1,1.7c0,0.4-0.1,0.8-0.3,1.1c-0.2,0.3-0.4,0.5-0.7,0.7
+			c0.3,0.1,0.5,0.3,0.6,0.4c0.1,0.2,0.2,0.5,0.2,0.9l0,1c0,0.3,0,0.5,0.1,0.6c0.1,0.2,0.2,0.4,0.3,0.4v0.2h-1.2
+			c0-0.1-0.1-0.1-0.1-0.2c0-0.1,0-0.3,0-0.6l-0.1-1.2c0-0.5-0.2-0.8-0.5-0.9c-0.2-0.1-0.5-0.1-0.9-0.1h-2.2v3.1h-1V18.1"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,252.5,23.5)">
+		<path vector-effect="none" class="st5" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,317,23)">
+		<path vector-effect="none" class="st0" d="M8.5,7.6h30v30h-30V7.6z"/>
+	</g>
+	<rect x="325.5" y="30.6" class="st1" width="31" height="31"/>
+	<g transform="matrix(1,0,0,1,317,23)">
+		<path vector-effect="none" class="st1" d="M8.5,7.6h31v31h-31V7.6z"/>
+	</g>
+	<rect x="324.5" y="29.6" class="st1" width="34" height="34"/>
+	<g transform="matrix(1,0,0,1,316,21.9999)">
+		<path vector-effect="none" class="st6" d="M24.8,33.9h3l2-17h3"/>
+	</g>
+	<rect x="331.3" y="31.6" class="st1" width="8.5" height="28.1"/>
+	<g transform="matrix(0.85,0,0,0.85,322.75,23.975)">
+		<path vector-effect="none" class="st7" d="M11.1,25h7v1h-7V25z"/>
+	</g>
+	<rect x="331.3" y="31.6" class="st1" width="8.5" height="28.1"/>
+	<g transform="matrix(0.85,0,0,0.85,322.75,23.975)">
+		<path vector-effect="none" d="M17,21v-0.2c-1.1,0-1.3-0.3-1.3-0.9v-8.4l-0.1,0L13,12.8V13l0.4-0.1c0.3-0.1,0.5-0.2,0.6-0.2
+			c0.3,0,0.4,0.2,0.4,0.7v6.3c0,0.8-0.3,1.1-1.3,1.1V21H17z"/>
+	</g>
+	<rect x="331.3" y="31.6" class="st1" width="8.5" height="28.1"/>
+	<g transform="matrix(0.85,0,0,0.85,322.75,23.975)">
+		<path vector-effect="none" d="M17.4,31.8h-0.2C17,32,16.9,32,16.7,32c-0.1,0-0.2,0-0.5-0.1c-0.4-0.1-0.5-0.1-0.8-0.1
+			c-1,0-1.7,0.6-1.7,1.5c0,0.4,0.3,1.1,0.9,1.8c0.5,0.7,0.8,1.2,0.8,1.6c0,0.7-0.4,1.1-1.1,1.1c-0.7,0-1.2-0.6-1.4-1.9h-0.2
+			l-0.3,2.2h0.2c0.1-0.2,0.3-0.3,0.4-0.3c0.2,0,0.3,0,0.6,0.1c0.3,0.1,0.5,0.1,0.8,0.1c1.2,0,2-0.7,2-1.9c0-0.5-0.3-1.1-1-1.9
+			c-0.5-0.6-0.8-1.1-0.8-1.4c0-0.5,0.3-0.8,0.8-0.8c0.7,0,1.1,0.5,1.2,1.6h0.2L17.4,31.8z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,317.5,23.5)">
+		<path vector-effect="none" class="st5" d="M8.5,7.6h30v30h-30V7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,492,63)">
+		<path vector-effect="none" class="st4" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="500.5" y="70.6" class="st1" width="30" height="30"/>
+	<g transform="matrix(1,0,0,1,492,63)">
+		<path vector-effect="none" class="st1" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="499.6" y="69.7" class="st1" width="34" height="34"/>
+	<g transform="matrix(1,0,0,1,487.008,63.0859)">
+		<path vector-effect="none" d="M16.7,20.3v-0.7c0.6-0.1,1.1-0.2,1.3-0.3c0.3-0.1,0.4-0.5,0.6-1h0.7v7h-0.9v-5H16.7 M23.6,18.1h0.7
+			l-2.3,7.2h-0.7L23.6,18.1 M27.9,17.9c0.9,0,1.6,0.2,2.1,0.7c0.5,0.5,0.8,1,0.8,1.6h-0.9c-0.1-0.5-0.3-0.8-0.6-1.1
+			c-0.3-0.3-0.8-0.4-1.4-0.4c-0.7,0-1.3,0.2-1.7,0.7c-0.4,0.5-0.7,1.3-0.7,2.3c0,0.8,0.2,1.5,0.6,2c0.4,0.5,1,0.8,1.8,0.8
+			c0.7,0,1.3-0.3,1.6-0.8c0.2-0.3,0.3-0.7,0.4-1.1h0.9c-0.1,0.8-0.4,1.4-0.8,1.9c-0.6,0.6-1.3,0.9-2.3,0.9c-0.8,0-1.5-0.3-2.1-0.8
+			c-0.7-0.7-1.1-1.7-1.1-3.1c0-1.1,0.3-1.9,0.8-2.6C26,18.2,26.8,17.9,27.9,17.9"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,492.5,63.5)">
+		<path vector-effect="none" class="st5" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,62,188)">
+		<path vector-effect="none" class="st0" d="M8.5,7.6h45v30h-45V7.6z"/>
+	</g>
+	<rect x="70.5" y="195.6" class="st1" width="46" height="31"/>
+	<g transform="matrix(1,0,0,1,62,188)">
+		<path vector-effect="none" class="st1" d="M8.5,7.6h46v31h-46V7.6z"/>
+	</g>
+	<rect x="69.5" y="198.1" class="st1" width="49" height="26"/>
+	<g transform="matrix(1,0,0,1,61,190.5)">
+		<path vector-effect="none" class="st8" d="M13.3,25.5h3.1V14.8h0.8v10.7h6.1V14.8H26v10.7h4.2V14.8l4.9,0l0.1,10.7l1.9,0V14.8
+			l3.7,0l0,10.6h3.2V14.8h1v10.7h5.9"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,62.5,188.5)">
+		<path vector-effect="none" class="st5" d="M8.5,7.6h45v30h-45V7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,162,153)">
+		<path vector-effect="none" class="st4" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="170.5" y="160.6" class="st1" width="30" height="30"/>
+	<g transform="matrix(1,0,0,1,162,153)">
+		<path vector-effect="none" class="st1" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="169.6" y="159.7" class="st1" width="34" height="34"/>
+	<g transform="matrix(1,0,0,1,157.008,153.086)">
+		<path vector-effect="none" d="M17.8,18.1l2.1,6.1l2-6.1h1.1l-2.6,7.2h-1l-2.6-7.2H17.8 M23.6,20h0.9v5.2h-0.9V20 M23.6,18.1h0.9v1
+			h-0.9V18.1 M25.8,20h0.8v0.7c0.2-0.3,0.5-0.5,0.8-0.7c0.3-0.1,0.6-0.2,0.9-0.2c0.7,0,1.2,0.3,1.5,0.8C30,21,30,21.4,30,21.9v3.4
+			h-0.9v-3.3c0-0.3,0-0.6-0.1-0.8c-0.2-0.3-0.4-0.5-0.8-0.5c-0.2,0-0.4,0-0.5,0.1c-0.2,0.1-0.5,0.2-0.6,0.4
+			c-0.1,0.2-0.2,0.4-0.3,0.5c0,0.2-0.1,0.4-0.1,0.8v2.7h-0.9V20"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,162.5,153.5)">
+		<path vector-effect="none" class="st5" d="M8.5,7.6l30,15l-30,15V7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,2,196)">
+		<path vector-effect="none" class="st4" d="M15.5,7.6h16c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7h-16c-3.9,0-7-3.1-7-7
+			C8.5,10.8,11.7,7.6,15.5,7.6z"/>
+	</g>
+	<rect x="10.5" y="203.6" class="st1" width="30" height="14"/>
+	<g transform="matrix(1,0,0,1,17,203)">
+		<text transform="matrix(1 0 0 1 5.7831 10.0239)" class="st2 st3">1</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,2.5,196.5)">
+		<path vector-effect="none" class="st5" d="M15.5,7.6h16c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7h-16c-3.9,0-7-3.1-7-7
+			C8.5,10.8,11.7,7.6,15.5,7.6z"/>
+	</g>
+	<rect x="19.3" y="219.6" class="st1" width="13" height="12"/>
+	<g transform="matrix(1,0,0,1,10.7266,212)">
+		<text transform="matrix(1 0 0 1 9.5487 16.3208)" class="st2 st3">dc</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572,91)">
+		<path vector-effect="none" class="st4" d="M15.5,7.6h16c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7h-16c-3.9,0-7-3.1-7-7
+			C8.5,10.8,11.7,7.6,15.5,7.6z"/>
+	</g>
+	<rect x="580.5" y="98.6" class="st1" width="30" height="14"/>
+	<g transform="matrix(1,0,0,1,587,98)">
+		<text transform="matrix(1 0 0 1 5.7831 10.0239)" class="st2 st3">1</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572.5,91.5)">
+		<path vector-effect="none" class="st5" d="M15.5,7.6h16c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7h-16c-3.9,0-7-3.1-7-7
+			C8.5,10.8,11.7,7.6,15.5,7.6z"/>
+	</g>
+	<rect x="588.7" y="114.6" class="st1" width="14" height="12"/>
+	<g transform="matrix(1,0,0,1,580.172,107)">
+		<text transform="matrix(1 0 0 1 9.5487 16.3208)" class="st2 st3">Vo</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572,126)">
+		<path vector-effect="none" class="st4" d="M15.5,7.6h16c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7h-16c-3.9,0-7-3.1-7-7
+			C8.5,10.8,11.7,7.6,15.5,7.6z"/>
+	</g>
+	<rect x="580.5" y="133.6" class="st1" width="30" height="14"/>
+	<g transform="matrix(1,0,0,1,587,133)">
+		<text transform="matrix(1 0 0 1 5.7831 10.0239)" class="st2 st3">2</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572.5,126.5)">
+		<path vector-effect="none" class="st5" d="M15.5,7.6h16c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7h-16c-3.9,0-7-3.1-7-7
+			C8.5,10.8,11.7,7.6,15.5,7.6z"/>
+	</g>
+	<rect x="587.9" y="149.6" class="st1" width="15" height="12"/>
+	<g transform="matrix(1,0,0,1,579.344,142)">
+		<rect x="9.5" y="7.7" class="st1" width="13.3" height="13.4"/>
+		<text transform="matrix(1 0 0 1 9.5482 16.3213)" class="st9"><tspan x="0" y="0" class="st2 st3 st10">i</tspan><tspan x="7.8" y="0" class="st2 st3">_</tspan></text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572,161)">
+		<path vector-effect="none" class="st4" d="M15.5,7.6h16c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7h-16c-3.9,0-7-3.1-7-7
+			C8.5,10.8,11.7,7.6,15.5,7.6z"/>
+	</g>
+	<rect x="580.5" y="168.6" class="st1" width="30" height="14"/>
+	<g transform="matrix(1,0,0,1,587,168)">
+		<text transform="matrix(1 0 0 1 5.7831 10.0239)" class="st2 st3">3</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572.5,161.5)">
+		<path vector-effect="none" class="st5" d="M15.5,7.6h16c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7h-16c-3.9,0-7-3.1-7-7
+			C8.5,10.8,11.7,7.6,15.5,7.6z"/>
+	</g>
+	<rect x="585.1" y="184.6" class="st1" width="21" height="12"/>
+	<g transform="matrix(1,0,0,1,576.563,177)">
+		<text transform="matrix(1 0 0 1 9.5487 16.3208)" class="st2 st3">Vsw</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572,196)">
+		<path vector-effect="none" class="st4" d="M15.5,7.6h16c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7h-16c-3.9,0-7-3.1-7-7
+			C8.5,10.8,11.7,7.6,15.5,7.6z"/>
+	</g>
+	<rect x="580.5" y="203.6" class="st1" width="30" height="14"/>
+	<g transform="matrix(1,0,0,1,587,203)">
+		<text transform="matrix(1 0 0 1 5.7831 10.0239)" class="st2 st3">4</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572.5,196.5)">
+		<path vector-effect="none" class="st5" d="M15.5,7.6h16c3.9,0,7,3.1,7,7c0,3.9-3.1,7-7,7h-16c-3.9,0-7-3.1-7-7
+			C8.5,10.8,11.7,7.6,15.5,7.6z"/>
+	</g>
+	<rect x="584" y="219.6" class="st1" width="23" height="12"/>
+	<g transform="matrix(1,0,0,1,575.453,212)">
+		<text transform="matrix(1 0 0 1 9.5487 16.3208)" class="st2 st3">pwm</text>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,252,133)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M294,138.1h22"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,317,133)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M354,138.1h27"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M419,138.1h14"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572,133)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M433,138.1h203"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,382,108)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M433,138.1v-25h13"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,361,133)">
+		<path vector-effect="none" class="st7" d="M11.5,8.1c0,1.4-1.1,2.5-2.5,2.5c-1.4,0-2.5-1.1-2.5-2.5S7.7,5.6,9,5.6
+			C10.4,5.6,11.5,6.8,11.5,8.1z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,317,38)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M354,43.1h27"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,252,38)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M242,43.1h74"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M594,83.1h27"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M621,83.1v-76H242v36"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572,98)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M621,83.1v20h15"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,192,133)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M242,43.1v95h14"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,170,38)">
+		<path vector-effect="none" class="st7" d="M11.5,8.1c0,1.4-1.1,2.5-2.5,2.5c-1.4,0-2.5-1.1-2.5-2.5S7.7,5.6,9,5.6
+			C10.4,5.6,11.5,6.8,11.5,8.1z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,549,78)">
+		<path vector-effect="none" class="st7" d="M11.5,8.1c0,1.4-1.1,2.5-2.5,2.5c-1.4,0-2.5-1.1-2.5-2.5S7.7,5.6,9,5.6
+			C10.4,5.6,11.5,6.8,11.5,8.1z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(6.12323e-17,-1,1,6.12323e-17,447,93)">
+		<path vector-effect="none" d="M-7.6,8.5l-8-4v8L-7.6,8.5z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M484,113.1h35v-7"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(6.12323e-17,1,-1,6.12323e-17,447,63)">
+		<path vector-effect="none" d="M7.6-8.5l-8-4v8L7.6-8.5z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M419,43.1h100v17"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,492,78)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M534,83.1h22"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M179,208.1h29"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,162,168)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M208,208.1v-35h18"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572,203)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M208,208.1h428"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,136,203)">
+		<path vector-effect="none" class="st7" d="M11.5,8.1c0,1.4-1.1,2.5-2.5,2.5c-1.4,0-2.5-1.1-2.5-2.5S7.7,5.6,9,5.6
+			C10.4,5.6,11.5,6.8,11.5,8.1z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M264,173.1h15"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(6.12323e-17,-1,1,6.12323e-17,207,148)">
+		<path vector-effect="none" d="M-7.6,8.5l-8-4v8L-7.6,8.5z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M279,173.1v-12"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,572,168)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M279,173.1h357"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,207,168)">
+		<path vector-effect="none" class="st7" d="M11.5,8.1c0,1.4-1.1,2.5-2.5,2.5c-1.4,0-2.5-1.1-2.5-2.5S7.7,5.6,9,5.6
+			C10.4,5.6,11.5,6.8,11.5,8.1z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,62,203)">
+		<path vector-effect="none" d="M8.5,7.6l-8-4v8L8.5,7.6z"/>
+	</g>
+	<rect x="8.5" y="7.6" class="st1" width="604" height="226"/>
+	<g transform="matrix(1,0,0,1,-63,3)">
+		<path vector-effect="none" class="st5" d="M104,208.1h22"/>
+	</g>
+</g>
+</svg>
