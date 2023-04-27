@@ -1,98 +1,49 @@
 #include "PWM.cpp"
-#define pinA 2
-#define pinB 3
+#include "RotaryEncoder.h"
 
-typedef unsigned long time;
-
-PWM* m1;
-
-volatile int pos = 0;
-float velocity = 0;
-time lastTime = 0;
-volatile int state = 0;
+PWM* motor;
 
 void setup() {
-  m1 = &PWM(10, 9);
+  motor = new PWM(9, 10);
+  initRotaryEncoder(2, 3);
   Serial.begin(9600);
-  // put your setup code here, to run once:
-  pinMode(pinA, INPUT);
-  pinMode(pinB, INPUT);
-  attachInterrupt(digitalPinToInterrupt(pinA), interruptHandler, CHANGE);
-  attachInterrupt(digitalPinToInterrupt(pinB), interruptHandler, CHANGE);
-
-  m1->setDutyCycle((int) (80));
+  motor->setDutyCycle((int) (30));
 }
 
-float getTimeDelta(){
-  time now = millis();
-  float dt = 0.001 * ((float)(now - lastTime)); // seconds
-  if (lastTime > now) dt = 0.001 * ((float)(now));
-  lastTime = now;
-  return dt;
-}
+float rpmsmooth = 0;
+float goalRPM = 100;
 
+float P = 0.02211;
+float D = -0.000000000;
+float dutyCycle = 0;
 
-void interruptHandler() {
-  int a = digitalRead(pinA);
-  int b = digitalRead(pinB);
-  int newState = (a << 1) | b;
-  int di = 0;
-  if ((state == 0 && newState == 1) ||
-      (state == 1 && newState == 3) ||
-      (state == 3 && newState == 2) ||
-      (state == 2 && newState == 0)) {
-//    di = -1;
-    pos++;
-  } else if ((state == 0 && newState == 2) ||
-             (state == 2 && newState == 3) ||
-             (state == 3 && newState == 1) ||
-             (state == 1 && newState == 0)) {
-//    di = 1;
-    pos--;
-  }
-  state = newState;
-}
-
-
-
-int count = 0;
-int p0 = pos;
-float vel = 0;
-int smooth = 3;
-int dt = 1;
-
-float goalVel = 100;
-float duty = 80;
-
+int i = 0;
 void loop() {
-  if (!(count%smooth)) {
-    int p1 = pos;
-    float dt = getTimeDelta();
-    vel = ((float) (p1 - p0)) / dt;
-    vel /= 48;
-    vel /= 74.83;
-    vel *= 60;
-    p0 = pos;
-  }
-  delay(dt);
+  MotorState ss = getMotorState();
+//
+  float p = (goalRPM - ss.rpm) * P ;//+ ss.ra * D;
+//  float d = -ss.ra / 1000000000;
+  dutyCycle += p;
+  motor->setDutyCycle((int) 50 - dutyCycle);
 
-  float error = goalVel - vel;
-
-  float p = error * 0.08;
-//  Serial.print(count);
-//  Serial.print(", 1000, ");
-  Serial.print(vel);
-  Serial.print(", ");
-  Serial.println(error);
-  count ++;
-
-  if (abs(error) > 1) {
-    duty += p;
-    m1->setDutyCycle((int) (duty));
-  }
-
-  if (count > 200) {
-    goalVel = 50;
+  
+  if (i < 600){
+    Serial.print(millis());
+    Serial.print(", ");
+    Serial.print(ss.rpm);
+    Serial.print(", ");
+    Serial.print(ss.ra * 0.001);
+    Serial.print(", ");
+    Serial.print(dutyCycle);
+    Serial.print(", ");
+    Serial.print(goalRPM);
+    Serial.println("");
   }
   
+
+  delay(5);
+  i++;
+//  if (i%400 == 0) {
+//    goalRPM = -50;
+//  }
 }
