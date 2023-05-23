@@ -1,7 +1,7 @@
-function [minv, maxv] = brange(y, s)
+function [minv, maxv] = srange(y, s)
     arguments 
         y (:, :) {mustBeNumeric} = 1
-        s (1, 1) {mustBePositive} = 5
+        s (1, 1) {mustBePositive} = 5 % smoothing factor
     end
     res = 0;
     y = reshape(y, [], 1);
@@ -12,7 +12,5 @@ function [minv, maxv] = brange(y, s)
 
     minv = min(res);
     maxv = max(res);
-
-
 end
 

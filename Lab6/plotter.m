@@ -29,7 +29,7 @@ for fid = 1:2
     subplot('Position', sp1p);
     data.plot(pvi);
     pv = data.y(:, pvi);
-    [minv, maxv] = brange(pv, 2);
+    [minv, maxv] = srange(pv, 2);
     snapylim([minv*1.2, maxv*1.2])
     plotrange(minv, maxv, "unit","V");
     title("Phase Voltages E_1, E_2, and E_3", 'FontSize',FS1);
@@ -38,7 +38,7 @@ for fid = 1:2
     subplot('Position', sp2p);
     vo = data.y(:, voi);
     data.plot(voi);
-    [mivo, mvo] = brange(vo, 3);
+    [mivo, mvo] = srange(vo, 3);
     snapylim([0, mvo*1.05]);
     plotrange(mivo, mvo, "unit","V");
     title("Rectifier Output Voltage E_4", 'FontSize',FS1);
@@ -59,14 +59,14 @@ for fid = 1:2
     data.plot(ids);
     title("Diode Currents I_1, I_2 and I_3", 'FontSize',FS1);
     grid on;
-    [mini, maxi] = brange(data.y(:, ids), 3);
+    [mini, maxi] = srange(data.y(:, ids), 3);
     dy = (maxi-mini)/5;
     snapylim([min(0, mini-dy), maxi+dy]);
     
     subplot('Position', sp2p);
     data.plot(ioi);
     io = data.y(:, ioi);
-    [mini, maxi] = brange(io, 5);
+    [mini, maxi] = srange(io, 5);
     plotrange(mini, maxi,'unit','A');
     title(sprintf("Rectifier Output Current I_4"), 'FontSize',FS1);
     subtitle(sprintf("AVG(I_4) = %s,   RMS(I_4) = %s", funit(mean(io), "A", 'precision',1), funit(rms(io), "A", 'precision',1)), "FontSize",FS2);
@@ -85,8 +85,8 @@ data = sdata.open(files{fid, 1});
 data.plot([1,3,4]);
 e2 = data.y(:, 3);
 e3 = data.y(:, 4);
-[min2, max2] = brange(e2, 3);
-[min3, max3] = brange(e3, 3);
+[min2, max2] = srange(e2, 3);
+[min3, max3] = srange(e3, 3);
 plotrange(min2, max2, 'unit', "V");
 plotrange(min3, max3, 'unit', "V");
 title("Dual-Polarity DC Power Supply with Capacitor", 'FontSize',FS1);
