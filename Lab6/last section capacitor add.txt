@@ -4,7 +4,7 @@ Festo Didactic LVDAC-EMS 3.19
 		
 		Ch1		Ch2		Ch3		Ch4		Ch5		Ch6		Ch7		Ch8		
 Time 		E1		I1		E2		Off		E3		Off		Off		Off		
-(ms)		(A)		(A)		(V)		()		(V)		()		()		()		
+(ms)		(V)		(A)		(V)		()		(V)		()		()		()		
 0.000		4.8		-0.004		207.4				-204.8								
 0.098		13.6		-0.013		203.9				-200.9								
 0.195		22.4		-0.008		205.3				-204.3								
