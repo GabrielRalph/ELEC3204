@@ -9,7 +9,9 @@ FS1 = 14;
 FS2 = 12;
 files = {"halfwave rectifier.txt", "hw";
          "three phase full wave.txt", "fw";
-         "last section capacitor add.txt", "dpc";
+         "last section capacitor add.txt", "dpc",
+         "full wave.txt", "dp";
+         "Oscilloscope.txt", "test";
 };
 set(gca,'FontName', "def")
 set(gca, 'FontAngle', 'normal')
@@ -79,6 +81,25 @@ end
 %%
 f = figure;
 subplot('Position', [0.1 0.1 0.8, 0.7]);
+fid = 4;
+partid = files{fid, 2};
+data = sdata.open(files{fid, 1});
+data.plot([1,3,4]);
+e2 = data.y(:, 3);
+e3 = data.y(:, 4);
+[min2, max2] = srange(e2, 3);
+[min3, max3] = srange(e3, 3);
+plotrange(min2, max2, 'unit', "V");
+plotrange(min3, max3, 'unit', "V");
+title("Dual-Polarity DC Power Supply", 'FontSize',FS1);
+subtitle(sprintf("AVG(E_2) = %s,    RMS(E_2) = %s\nAVG(E_3) = %s,    RMS(E_3) = %s", ...
+    funit(mean(e2), "V", 'precision',1), funit(rms(e2), "V", 'precision',1),...
+    funit(mean(e3), "V", 'precision',1), funit(rms(e3), "V", 'precision',1)), 'FontSize',FS2);
+grid on;
+saveas(f, sprintf("fig-%s-i", partid), "svg");
+%%
+f = figure;
+subplot('Position', [0.1 0.1 0.8, 0.7]);
 fid = 3;
 partid = files{fid, 2};
 data = sdata.open(files{fid, 1});
@@ -96,4 +117,7 @@ subtitle(sprintf("AVG(E_2) = %s,    RMS(E_2) = %s\nAVG(E_3) = %s,    RMS(E_3) = 
 grid on;
 saveas(f, sprintf("fig-%s-i", partid), "svg");
 %%
-
+% fid = 4;
+% data = sdata.open(files{fid, 1});
+% size(data.y)
+% data.plot(1:4);
