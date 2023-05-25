@@ -303,9 +303,6 @@
     ><text x="-30" xml:space="preserve" y="-3" style="stroke:none;"
       >-201 V</text
     ></g
-    ><g style="fill:white; text-rendering:optimizeSpeed; color-rendering:optimizeSpeed; image-rendering:optimizeSpeed; shape-rendering:crispEdges; stroke:white; color-interpolation:sRGB;"
-    ><path style="stroke:none;" d="M393.5 378 L393.5 363 L167 363 L167 378 Z"
-    /></g
     ><g transform="translate(204,370.5)" style="font-size:9px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="3.5" style="stroke:none;"
       >E1 [Ch1]</text
@@ -326,9 +323,6 @@
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(237,177,32); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(237,177,32); color-interpolation:linearRGB; stroke-width:2;"
     ><line y2="370.5" style="fill:none;" x1="322" x2="352" y1="370.5"
-    /></g
-    ><g style="stroke-linecap:butt; fill:rgb(38,38,38); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke:rgb(38,38,38); color-interpolation:linearRGB; stroke-width:0.5;"
-    ><path d="M167 378 L167 363 L393.5 363 L393.5 378 Z" style="fill:none; fill-rule:evenodd;"
     /></g
   ></g
 ></svg

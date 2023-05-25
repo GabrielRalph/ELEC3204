@@ -30,6 +30,7 @@ for fid = 1:2
     
     subplot('Position', sp1p);
     data.plot(pvi);
+    legend boxoff
     pv = data.y(:, pvi);
     [minv, maxv] = srange(pv, 2);
     snapylim([minv*1.2, maxv*1.2])
@@ -40,6 +41,7 @@ for fid = 1:2
     subplot('Position', sp2p);
     vo = data.y(:, voi);
     data.plot(voi);
+    legend boxoff
     [mivo, mvo] = srange(vo, 3);
     snapylim([0, mvo*1.05]);
     plotrange(mivo, mvo, "unit","V");
@@ -59,6 +61,7 @@ for fid = 1:2
     
     subplot('Position', sp1p);
     data.plot(ids);
+    legend boxoff
     title("Diode Currents I_1, I_2 and I_3", 'FontSize',FS1);
     grid on;
     [mini, maxi] = srange(data.y(:, ids), 3);
@@ -67,6 +70,7 @@ for fid = 1:2
     
     subplot('Position', sp2p);
     data.plot(ioi);
+    legend boxoff
     io = data.y(:, ioi);
     [mini, maxi] = srange(io, 5);
     plotrange(mini, maxi,'unit','A');
@@ -85,6 +89,7 @@ fid = 4;
 partid = files{fid, 2};
 data = sdata.open(files{fid, 1});
 data.plot([1,3,4]);
+legend boxoff
 e2 = data.y(:, 3);
 e3 = data.y(:, 4);
 [min2, max2] = srange(e2, 3);
@@ -104,6 +109,7 @@ fid = 3;
 partid = files{fid, 2};
 data = sdata.open(files{fid, 1});
 data.plot([1,3,4]);
+legend boxoff
 e2 = data.y(:, 3);
 e3 = data.y(:, 4);
 [min2, max2] = srange(e2, 3);
@@ -121,3 +127,11 @@ saveas(f, sprintf("fig-%s-i", partid), "svg");
 % data = sdata.open(files{fid, 1});
 % size(data.y)
 % data.plot(1:4);
+
+n = 0:14;
+di = (1./(14 - 2*n)) .* (factorial(14) ./ (factorial(n) .* factorial(14 - n)))
+di2 = ( 1 + sqrt(2) ).^(14 - 2*n) - 1
+
+di3 = di .* di2
+
+% sum(di)
