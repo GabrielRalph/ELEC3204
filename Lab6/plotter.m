@@ -41,7 +41,6 @@ for fid = 1:2
     subplot('Position', sp2p);
     vo = data.y(:, voi);
     data.plot(voi);
-    legend boxoff
     [mivo, mvo] = srange(vo, 3);
     snapylim([0, mvo*1.05]);
     plotrange(mivo, mvo, "unit","V");
@@ -70,7 +69,6 @@ for fid = 1:2
     
     subplot('Position', sp2p);
     data.plot(ioi);
-    legend boxoff
     io = data.y(:, ioi);
     [mini, maxi] = srange(io, 5);
     plotrange(mini, maxi,'unit','A');

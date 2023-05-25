@@ -75,7 +75,7 @@ classdef sdata
             channels = channels(notoff);
             names = names(notoff);
             
-            ylabels = cellfun(@(a, b) sprintf('%s [%s]', a, b), names, channels, 'UniformOutput', false);
+            ylabels = names; %cellfun(@(a, b) sprintf('%s [%s]', a, b), names, channels, 'UniformOutput', false);
             
             resdata = sdata(x(:, 1), x(:, 2:end), "xlabels", tname, "xunits",units(1), ...
                               "ylabels",ylabels, "yunits",units(2:end));
