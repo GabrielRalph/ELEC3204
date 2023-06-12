@@ -120,7 +120,13 @@ for it1 = ones(1,20)/5 %, ones(1,7)*1.2]
     z = x + 1i * y;
     cvc = z * 0;
     for it = 1:n
+
+
         z = 2*z + z.^2 + 1./z;
+
+
+
+
         cvc((isnan(z) | isinf(z)) & cvc == 0) = it;
     end
     cvc(cvc == 0) = n;

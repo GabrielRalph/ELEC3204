@@ -1,70 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="129.1px" height="100px" viewBox="0 0 129.1 100" style="enable-background:new 0 0 129.1 100;" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="129.1px"
+	 height="100px" viewBox="0 0 129.1 100" style="enable-background:new 0 0 129.1 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FC8754;stroke-width:2;stroke-miterlimit:10;}
-	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#CAEAFF;stroke-linecap:square;stroke-miterlimit:10;}
-	.st3{fill:#CAEAFF;}
-	.st4{opacity:0.3;fill:#F21616;}
-	.st5{fill:none;stroke:#CAEAFF;stroke-linecap:round;stroke-miterlimit:10;}
-	.st6{fill:#2E87AF;}
-	.st7{font-family:'TimesNewRomanPS-ItalicMT';}
-	.st8{font-size:13.4658px;}
-	.st9{fill:#C60C0C;}
-	.st10{fill:#FC8754;}
-	.st11{font-size:10.5803px;}
-	.st12{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st13{font-size:12.504px;}
-	.st14{fill:none;stroke:#2961ED;stroke-miterlimit:10;}
-	.st15{fill:none;stroke:#89C168;stroke-miterlimit:10;}
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:none;stroke:#6A93BF;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st3{display:inline;fill:none;stroke:#6A93BF;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#FC8754;stroke-width:2;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#CAEAFF;stroke-linecap:square;stroke-miterlimit:10;}
+	.st7{fill:#CAEAFF;}
+	.st8{opacity:0.3;fill:#F21616;}
+	.st9{fill:none;stroke:#CAEAFF;stroke-linecap:round;stroke-miterlimit:10;}
+	.st10{fill:#2E87AF;}
+	.st11{font-family:'TimesNewRomanPS-ItalicMT';}
+	.st12{font-size:13.4658px;}
+	.st13{fill:#C60C0C;}
+	.st14{fill:#FC8754;}
+	.st15{font-size:10.5803px;}
+	.st16{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st17{font-size:12.504px;}
+	.st18{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st19{stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st20{fill:#E55D1E;stroke:#E55D1E;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st21{fill:none;stroke:#E55D1E;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st22{fill:none;}
+	.st23{fill:none;stroke:#1075A1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st24{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M49.5,57.7c1,2.8,1.8-0.4-5.2,2.1c-3.8,1.3-7.8,5.7-20.8,5.7s-20,0-20,0"/>
-<path class="st0" d="M28.4,50c0-2.9,6.1-5.3,13.5-5.3s13.5,2.4,13.5,5.3"/>
-<path class="st0" d="M28.9,43.1c0.4-2.9,6.7-4.4,14.1-3.4c7.4,1,13.1,4.2,12.7,7.2"/>
-<path class="st0" d="M55.3,38.8c1.2,1.4,1.8,2.7,1.4,3.8"/>
-<path class="st0" d="M29.1,58.2c-0.5-2.9,5.1-6.3,12.5-7.5c7.4-1.2,13.7,0.1,14.2,3"/>
-<path class="st1" d="M78,1.9C51.5,1.9,29.9,23.4,29.9,50c0,26.6,21.5,48.1,48.1,48.1c26.6,0,48.1-21.5,48.1-48.1
-	C126.1,23.4,104.6,1.9,78,1.9z M78,74c-13.3,0-24-10.8-24-24s10.8-24,24-24c13.3,0,24,10.8,24,24S91.3,74,78,74z"/>
-<g>
+<g id="Layer_2">
+</g>
+<g id="Layer_1">
+	<path class="st4" d="M49.5,57.7c1,2.8,1.8-0.4-5.2,2.1c-3.8,1.3-7.8,5.7-20.8,5.7s-20,0-20,0"/>
+	<path class="st4" d="M28.4,50c0-2.9,6.1-5.3,13.5-5.3s13.5,2.4,13.5,5.3"/>
+	<path class="st4" d="M28.9,43.1c0.4-2.9,6.7-4.4,14.1-3.4c7.4,1,13.1,4.2,12.7,7.2"/>
+	<path class="st4" d="M55.3,38.8c1.2,1.4,1.8,2.7,1.4,3.8"/>
+	<path class="st4" d="M29.1,58.2c-0.5-2.9,5.1-6.3,12.5-7.5c7.4-1.2,13.7,0.1,14.2,3"/>
+	<path class="st5" d="M78,1.9C51.5,1.9,29.9,23.4,29.9,50c0,26.6,21.5,48.1,48.1,48.1c26.6,0,48.1-21.5,48.1-48.1
+		C126.1,23.4,104.6,1.9,78,1.9z M78,74c-13.3,0-24-10.8-24-24s10.8-24,24-24c13.3,0,24,10.8,24,24S91.3,74,78,74z"/>
 	<g>
-		<path class="st2" d="M78,86.1C58.1,86.1,42,69.9,42,50c0-16.9,11.6-31.1,27.3-35"/>
 		<g>
-			<polygon class="st3" points="67.7,18.3 78,13.9 66.9,12.6 			"/>
+			<path class="st6" d="M78,86.1C58.1,86.1,42,69.9,42,50c0-16.9,11.6-31.1,27.3-35"/>
+			<g>
+				<polygon class="st7" points="67.7,18.3 78,13.9 66.9,12.6 				"/>
+			</g>
 		</g>
 	</g>
-</g>
-<g>
 	<g>
-		<path class="st2" d="M114.1,50c0,16.9-11.6,31.1-27.3,35"/>
 		<g>
-			<polygon class="st3" points="88.4,81.7 78,86.1 89.2,87.4 			"/>
+			<path class="st6" d="M114.1,50c0,16.9-11.6,31.1-27.3,35"/>
+			<g>
+				<polygon class="st7" points="88.4,81.7 78,86.1 89.2,87.4 				"/>
+			</g>
 		</g>
 	</g>
-</g>
-<path class="st0" d="M55.5,50c0,2.9-6.1,5.3-13.5,5.3S28.4,52.9,28.4,50"/>
-<path class="st0" d="M55.7,46.9c-0.4,2.9-6.7,4.4-14.1,3.4c-7.4-1-13.1-4.2-12.7-7.2"/>
-<path class="st0" d="M56.7,42.6c-1,2.8-7.5,3-14.5,0.6c-4-1.4-6.7-4.1-9.2-5.3c-4.5-2.1-14.4-1.7-17.9-1.7"/>
-<path class="st0" d="M55.8,53.7c0.5,2.9-5.1,6.3-12.5,7.5s-13.7-0.1-14.2-3"/>
-<ellipse class="st4" cx="114.1" cy="50" rx="12" ry="4.7"/>
-<path class="st5" d="M114.1,50c0-19.9-16.1-36.1-36.1-36.1"/>
-<text transform="matrix(1 0 0 1 77.5114 13.2891)" class="st6 st7 st8">l</text>
-<text transform="matrix(0.583 0 0 0.583 81.2526 17.773)" class="st6 st7 st8">e</text>
-<text transform="matrix(1 0 0 1 105.1394 50)" class="st9 st7 st8">A</text>
-<text transform="matrix(0.583 0 0 0.583 113.365 54.4839)" class="st9 st7 st8">e</text>
-<g>
+	<path class="st4" d="M55.5,50c0,2.9-6.1,5.3-13.5,5.3S28.4,52.9,28.4,50"/>
+	<path class="st4" d="M55.7,46.9c-0.4,2.9-6.7,4.4-14.1,3.4c-7.4-1-13.1-4.2-12.7-7.2"/>
+	<path class="st4" d="M56.7,42.6c-1,2.8-7.5,3-14.5,0.6c-4-1.4-6.7-4.1-9.2-5.3c-4.5-2.1-14.4-1.7-17.9-1.7"/>
+	<path class="st4" d="M55.8,53.7c0.5,2.9-5.1,6.3-12.5,7.5s-13.7-0.1-14.2-3"/>
+	<ellipse class="st8" cx="114.1" cy="50" rx="12" ry="4.7"/>
+	<path class="st9" d="M114.1,50c0-19.9-16.1-36.1-36.1-36.1"/>
+	<text transform="matrix(1 0 0 1 77.5114 13.2891)" class="st10 st11 st12">l</text>
+	<text transform="matrix(0.583 0 0 0.583 81.2526 17.773)" class="st10 st11 st12">e</text>
+	<text transform="matrix(1 0 0 1 105.1394 50)" class="st13 st11 st12">A</text>
+	<text transform="matrix(0.583 0 0 0.583 113.365 54.4839)" class="st13 st11 st12">e</text>
 	<g>
-		<line class="st0" x1="3.1" y1="36.1" x2="11.1" y2="36.1"/>
 		<g>
-			<polygon class="st10" points="9.1,39 19.9,36.1 9.1,33.2 			"/>
+			<line class="st4" x1="3.1" y1="36.1" x2="11.1" y2="36.1"/>
+			<g>
+				<polygon class="st14" points="9.1,39 19.9,36.1 9.1,33.2 				"/>
+			</g>
 		</g>
 	</g>
+	<text transform="matrix(1 0 0 1 8.2087 30.2324)" class="st11 st15">i(t)</text>
+	<text transform="matrix(1 0 0 1 0.4685 54.6856)" class="st11 st15">v(t)</text>
+	<line class="st16" x1="3.5" y1="62.5" x2="8.2" y2="62.5"/>
+	<line class="st16" x1="3.1" y1="41.1" x2="7.8" y2="41.1"/>
+	<line class="st16" x1="5.4" y1="43.5" x2="5.4" y2="38.8"/>
+	<text transform="matrix(1 0 0 1 59.9948 52.6646)" class="st11 st17">n turns</text>
 </g>
-<text transform="matrix(1 0 0 1 8.2087 30.2324)" class="st7 st11">i(t)</text>
-<text transform="matrix(1 0 0 1 0.4685 54.6856)" class="st7 st11">v(t)</text>
-<line class="st12" x1="3.5" y1="62.5" x2="8.2" y2="62.5"/>
-<line class="st12" x1="3.1" y1="41.1" x2="7.8" y2="41.1"/>
-<line class="st12" x1="5.4" y1="43.5" x2="5.4" y2="38.8"/>
-<text transform="matrix(1 0 0 1 59.9948 52.6646)" class="st7 st13">n turns</text>
 </svg>
