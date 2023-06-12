@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="76.5px"
-	 height="26.7px" viewBox="0 0 76.5 26.7" style="enable-background:new 0 0 76.5 26.7;" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="30px" viewBox="0 0 100 30" style="enable-background:new 0 0 100 30;" xml:space="preserve">
 <style type="text/css">
 	.st0{display:none;}
 	.st1{display:inline;}
@@ -32,125 +32,127 @@
 </g>
 <g id="Layer_1">
 	<g>
-		<line class="st12" x1="8.8" y1="25.8" x2="28.7" y2="25.8"/>
-		<line class="st12" x1="48.8" y1="25.8" x2="68.8" y2="25.8"/>
-		<path class="st12" d="M28.8,5.8l-5.5,0c-0.1-1-0.7-1.7-1.5-1.7s-1.4,0.7-1.5,1.7c-0.1-1-0.7-1.7-1.5-1.7s-1.4,0.7-1.5,1.7
-			c-0.1-1-0.7-1.7-1.5-1.7c-0.8,0-1.4,0.7-1.5,1.7l-5.5,0"/>
-		<polyline class="st12" points="68.8,25.8 68.8,20.3 70.3,19 67.3,17.8 70.3,16.4 67.3,15.2 70.3,13.9 67.3,12.6 68.8,11.3 
-			68.8,5.8 		"/>
 		<g>
-			<line class="st12" x1="48.8" y1="14.8" x2="48.8" y2="5.8"/>
-			<line class="st12" x1="48.8" y1="25.8" x2="48.8" y2="16.8"/>
-			<line class="st12" x1="46.3" y1="16.8" x2="51.3" y2="16.8"/>
-			<line class="st12" x1="46.3" y1="14.8" x2="51.3" y2="14.8"/>
-		</g>
-		<g>
+			<line class="st12" x1="20.6" y1="27.9" x2="40.6" y2="27.9"/>
+			<line class="st12" x1="60.6" y1="27.9" x2="80.6" y2="27.9"/>
+			<path class="st12" d="M40.6,7.9l-5.5,0c-0.1-1-0.7-1.7-1.5-1.7s-1.4,0.7-1.5,1.7c-0.1-1-0.7-1.7-1.5-1.7c-0.8,0-1.4,0.7-1.5,1.7
+				c-0.1-1-0.7-1.7-1.5-1.7c-0.8,0-1.4,0.7-1.5,1.7l-5.5,0"/>
+			<polyline class="st12" points="80.6,27.9 80.6,22.4 82.1,21.1 79.1,19.8 82.1,18.5 79.1,17.2 82.1,15.9 79.1,14.6 80.6,13.4 
+				80.6,7.9 			"/>
 			<g>
-				<line class="st13" x1="39.8" y1="5.8" x2="48.8" y2="5.8"/>
-				<line class="st13" x1="28.8" y1="5.8" x2="37.8" y2="5.8"/>
+				<line class="st12" x1="60.6" y1="16.9" x2="60.6" y2="7.9"/>
+				<line class="st12" x1="60.6" y1="27.9" x2="60.6" y2="18.9"/>
+				<line class="st12" x1="58.1" y1="18.9" x2="63.1" y2="18.9"/>
+				<line class="st12" x1="58.1" y1="16.9" x2="63.1" y2="16.9"/>
 			</g>
 			<g>
-				<line class="st13" x1="40.8" y1="4.3" x2="40.8" y2="7.3"/>
-				<polygon class="st13" points="40.8,5.8 36.8,4.3 36.8,7.3 				"/>
+				<g>
+					<line class="st13" x1="51.6" y1="7.9" x2="60.6" y2="7.9"/>
+					<line class="st13" x1="40.6" y1="7.9" x2="49.6" y2="7.9"/>
+				</g>
+				<g>
+					<line class="st13" x1="52.6" y1="6.4" x2="52.6" y2="9.4"/>
+					<polygon class="st13" points="52.6,7.9 48.6,6.4 48.6,9.4 					"/>
+				</g>
+				<line class="st13" x1="51.6" y1="7.9" x2="47.6" y2="7.9"/>
 			</g>
-			<line class="st13" x1="39.8" y1="5.8" x2="35.8" y2="5.8"/>
+			<line class="st12" x1="40.6" y1="27.9" x2="60.6" y2="27.9"/>
+			<line class="st12" x1="60.6" y1="7.9" x2="80.6" y2="7.9"/>
+			<g>
+				<polyline class="st12" points="37.6,14.9 40.6,14.9 40.6,7.9 				"/>
+				<polyline class="st12" points="38.6,17.9 40.6,17.9 40.6,20.9 				"/>
+				<polyline class="st12" points="37.6,20.9 40.6,20.9 40.6,27.9 				"/>
+				<line class="st12" x1="37.6" y1="21.3" x2="37.6" y2="20.3"/>
+				<line class="st12" x1="37.6" y1="18.4" x2="37.6" y2="17.4"/>
+				<line class="st12" x1="37.6" y1="15.4" x2="37.6" y2="14.4"/>
+				<polygon class="st12" points="38.3,17.9 39.3,18.4 39.3,17.3 				"/>
+				<line class="st12" x1="42.8" y1="17" x2="44.3" y2="17"/>
+				<polygon class="st13" points="43.6,17.3 42.7,18.9 44.5,18.9 				"/>
+				<polyline class="st12" points="36.1,21.3 36.1,14.4 34.7,14.4 				"/>
+				<polyline class="st12" points="40.6,20.9 43.6,20.9 43.6,18.7 				"/>
+				<polyline class="st12" points="40.6,14.9 43.6,14.9 43.6,17 				"/>
+			</g>
 		</g>
-		<line class="st12" x1="28.8" y1="25.8" x2="48.8" y2="25.8"/>
-		<line class="st12" x1="48.8" y1="5.8" x2="68.8" y2="5.8"/>
+		<text transform="matrix(1 0 0 1 12.5897 21.8608)" class="st19 st20">V</text>
+		<text transform="matrix(0.583 0 0 0.583 14.99 23.1928)" class="st19 st20">in</text>
+		<text transform="matrix(1 0 0 1 32.1612 17.1939)" class="st19 st20">Q</text>
 		<g>
-			<polyline class="st12" points="25.8,12.8 28.8,12.8 28.8,5.8 			"/>
-			<polyline class="st12" points="26.8,15.8 28.8,15.8 28.8,18.8 			"/>
-			<polyline class="st12" points="25.8,18.8 28.8,18.8 28.8,25.8 			"/>
-			<line class="st12" x1="25.8" y1="19.3" x2="25.8" y2="18.3"/>
-			<line class="st12" x1="25.8" y1="16.3" x2="25.8" y2="15.3"/>
-			<line class="st12" x1="25.8" y1="13.3" x2="25.8" y2="12.3"/>
-			<polygon class="st12" points="26.4,15.8 27.4,16.4 27.4,15.2 			"/>
-			<line class="st12" x1="31" y1="15" x2="32.5" y2="15"/>
-			<polygon class="st13" points="31.8,15.2 30.8,16.8 32.7,16.8 			"/>
-			<polyline class="st12" points="24.3,19.3 24.3,12.3 22.9,12.3 			"/>
-			<polyline class="st12" points="28.8,18.8 31.8,18.8 31.8,16.6 			"/>
-			<polyline class="st12" points="28.8,12.8 31.8,12.8 31.8,15 			"/>
+			<text transform="matrix(1 0 0 1 53.6753 19.005)" class="st19 st20">C</text>
+			<text transform="matrix(0.583 0 0 0.583 56.0757 20.337)" class="st19 st20">o</text>
 		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 0.7583 19.8134)" class="st19 st20">V</text>
-	<text transform="matrix(0.583 0 0 0.583 3.1587 21.1455)" class="st19 st20">in</text>
-	<text transform="matrix(1 0 0 1 20.3299 15.1466)" class="st19 st20">Q</text>
-	<g>
-		<text transform="matrix(1 0 0 1 41.844 16.9576)" class="st19 st20">C</text>
-		<text transform="matrix(0.583 0 0 0.583 44.2444 18.2897)" class="st19 st20">o</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 63.2672 16.8041)" class="st19 st20">R</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 42.5907 10.4629)" class="st21 st19 st20">i</text>
-		<text transform="matrix(0.583 0 0 0.583 44.9911 11.7949)" class="st21 st19 st20">co</text>
 		<g>
-			<polygon class="st14" points="48.8,11.8 48.3,10.5 49.3,10.5 			"/>
+			<text transform="matrix(1 0 0 1 75.0985 18.8514)" class="st19 st20">R</text>
 		</g>
-		<line class="st15" x1="48.8" y1="8.8" x2="48.8" y2="11"/>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 23.9901 22.857)" class="st21 st19 st20">i</text>
-		<text transform="matrix(0.583 0 0 0.583 26.3905 24.189)" class="st21 st19 st20">Q</text>
 		<g>
-			<polygon class="st14" points="28.8,24.2 28.3,22.9 29.3,22.9 			"/>
+			<text transform="matrix(1 0 0 1 54.422 12.5102)" class="st21 st19 st20">i</text>
+			<text transform="matrix(0.583 0 0 0.583 56.8224 13.8423)" class="st21 st19 st20">co</text>
+			<g>
+				<polygon class="st14" points="60.6,13.8 60.1,12.5 61.1,12.5 				"/>
+			</g>
+			<line class="st15" x1="60.6" y1="10.9" x2="60.6" y2="13.1"/>
 		</g>
-		<line class="st15" x1="28.8" y1="21.2" x2="28.8" y2="23.4"/>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 63.9898 9.2363)" class="st21 st19 st20">i</text>
-		<text transform="matrix(0.583 0 0 0.583 66.3902 10.5683)" class="st21 st19 st20">o</text>
 		<g>
-			<polygon class="st14" points="68.8,10.6 68.3,9.2 69.3,9.2 			"/>
+			<text transform="matrix(1 0 0 1 35.8214 24.9043)" class="st21 st19 st20">i</text>
+			<text transform="matrix(0.583 0 0 0.583 38.2218 26.2363)" class="st21 st19 st20">Q</text>
+			<g>
+				<polygon class="st14" points="40.6,26.2 40.1,24.9 41.1,24.9 				"/>
+			</g>
+			<line class="st15" x1="40.6" y1="23.3" x2="40.6" y2="25.5"/>
 		</g>
-		<line class="st15" x1="68.8" y1="7.6" x2="68.8" y2="9.8"/>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 43.7373 3.2595)" class="st21 st19 st20">i</text>
-		<text transform="matrix(0.583 0 0 0.583 46.1377 4.5915)" class="st21 st19 st20">D</text>
 		<g>
-			<polygon class="st14" points="46.5,5.8 45.2,6.3 45.2,5.3 			"/>
+			<text transform="matrix(1 0 0 1 75.8211 11.2836)" class="st21 st19 st20">i</text>
+			<text transform="matrix(0.583 0 0 0.583 78.2215 12.6157)" class="st21 st19 st20">o</text>
+			<g>
+				<polygon class="st14" points="80.6,12.6 80.1,11.3 81.1,11.3 				"/>
+			</g>
+			<line class="st15" x1="80.6" y1="9.7" x2="80.6" y2="11.9"/>
 		</g>
-		<line class="st15" x1="43.5" y1="5.8" x2="45.8" y2="5.8"/>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 9.9598 3.2593)" class="st21 st19 st20">i</text>
-		<text transform="matrix(0.583 0 0 0.583 12.3602 4.5914)" class="st21 st19 st20">L</text>
 		<g>
-			<polygon class="st14" points="12.7,5.8 11.4,6.3 11.4,5.3 			"/>
+			<text transform="matrix(1 0 0 1 55.5686 5.3068)" class="st21 st19 st20">i</text>
+			<text transform="matrix(0.583 0 0 0.583 57.969 6.6389)" class="st21 st19 st20">D</text>
+			<g>
+				<polygon class="st14" points="58.3,7.9 57,8.3 57,7.4 				"/>
+			</g>
+			<line class="st15" x1="55.4" y1="7.9" x2="57.6" y2="7.9"/>
 		</g>
-		<line class="st15" x1="9.8" y1="5.8" x2="12" y2="5.8"/>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 71.7794 16.9578)" class="st22 st19 st20">v</text>
-		<text transform="matrix(0.583 0 0 0.583 74.1798 18.2898)" class="st22 st19 st20">o</text>
-		<line class="st17" x1="72.9" y1="8" x2="72.9" y2="9.5"/>
-		<line class="st17" x1="73.6" y1="8.8" x2="72.1" y2="8.8"/>
-		<line class="st17" x1="73.6" y1="22.8" x2="72.1" y2="22.8"/>
-	</g>
-	<g>
-		<line class="st12" x1="8.8" y1="12.1" x2="8.8" y2="5.8"/>
-		<line class="st12" x1="8.8" y1="25.8" x2="8.8" y2="19.5"/>
-		<circle class="st12" cx="8.8" cy="15.8" r="3.7"/>
 		<g>
-			<line class="st12" x1="8.8" y1="13.6" x2="8.8" y2="15.1"/>
-			<line class="st12" x1="9.5" y1="14.4" x2="8" y2="14.4"/>
-			<line class="st12" x1="9.5" y1="18" x2="8" y2="18"/>
+			<text transform="matrix(1 0 0 1 21.7911 5.3067)" class="st21 st19 st20">i</text>
+			<text transform="matrix(0.583 0 0 0.583 24.1915 6.6387)" class="st21 st19 st20">L</text>
+			<g>
+				<polygon class="st14" points="24.5,7.9 23.2,8.3 23.2,7.4 				"/>
+			</g>
+			<line class="st15" x1="21.6" y1="7.9" x2="23.8" y2="7.9"/>
 		</g>
-	</g>
-	<g>
-		<line class="st16" x1="8.7" y1="8" x2="28.7" y2="8"/>
-		<text transform="matrix(1 0 0 1 17.4964 8.7859)" class="st22 st19 st20">v</text>
-		<text transform="matrix(0.583 0 0 0.583 19.8968 10.1179)" class="st22 st19 st20">L</text>
-		<line class="st17" x1="11" y1="8" x2="12.5" y2="8"/>
-		<line class="st17" x1="11.7" y1="7.3" x2="11.7" y2="8.8"/>
-		<line class="st17" x1="26.5" y1="8" x2="25" y2="8"/>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 27.4928 3.7292)" class="st22 st19 st20">v</text>
-		<text transform="matrix(0.583 0 0 0.583 29.8932 5.0612)" class="st22 st19 st20">sw</text>
-		<circle id="XMLID_00000127758593201478874070000002647419888092288398_" cx="28.8" cy="5.8" r="0.7"/>
+		<g>
+			<text transform="matrix(1 0 0 1 83.6107 19.0051)" class="st22 st19 st20">v</text>
+			<text transform="matrix(0.583 0 0 0.583 86.0111 20.3371)" class="st22 st19 st20">o</text>
+			<line class="st17" x1="84.7" y1="10.1" x2="84.7" y2="11.6"/>
+			<line class="st17" x1="85.5" y1="10.8" x2="84" y2="10.8"/>
+			<line class="st17" x1="85.5" y1="24.9" x2="84" y2="24.9"/>
+		</g>
+		<g>
+			<line class="st12" x1="20.6" y1="14.2" x2="20.6" y2="7.9"/>
+			<line class="st12" x1="20.6" y1="27.9" x2="20.6" y2="21.5"/>
+			<circle class="st12" cx="20.6" cy="17.9" r="3.7"/>
+			<g>
+				<line class="st12" x1="20.6" y1="15.7" x2="20.6" y2="17.2"/>
+				<line class="st12" x1="21.3" y1="16.4" x2="19.8" y2="16.4"/>
+				<line class="st12" x1="21.3" y1="20" x2="19.8" y2="20"/>
+			</g>
+		</g>
+		<g>
+			<line class="st16" x1="20.6" y1="10.1" x2="40.6" y2="10.1"/>
+			<text transform="matrix(1 0 0 1 29.3278 10.8332)" class="st22 st19 st20">v</text>
+			<text transform="matrix(0.583 0 0 0.583 31.7281 12.1652)" class="st22 st19 st20">L</text>
+			<line class="st17" x1="22.8" y1="10.1" x2="24.3" y2="10.1"/>
+			<line class="st17" x1="23.6" y1="9.3" x2="23.6" y2="10.8"/>
+			<line class="st17" x1="38.3" y1="10.1" x2="36.8" y2="10.1"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 39.3241 5.7765)" class="st22 st19 st20">v</text>
+			<text transform="matrix(0.583 0 0 0.583 41.7245 7.1086)" class="st22 st19 st20">sw</text>
+			<circle id="XMLID_00000127758593201478874070000002647419888092288398_" cx="40.6" cy="7.9" r="0.7"/>
+		</g>
 	</g>
 </g>
 </svg>
