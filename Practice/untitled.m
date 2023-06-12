@@ -94,5 +94,42 @@ v = [10, 20 * exp(-25*deg*1i), 30 * exp(20*deg*1i)];
 i = v ./ z(w);
 p = sqrt(sum(abs(v .* i).^2 ./ [1, 2, 2]))
 
+%%
+clear;
+clc;
+c1.Position = [-1, -1];
+c2.Position = [1, 1];
+c = [c1, c2];
+%%
 
-% fprintf("i(t) = %.2f + %.2fcos(%.2f t + %.2f) + %.1fcos(%.1f t + %.2f)\n", i_w0, abs(i_w1), w1, angle(i_w1)/deg, abs(i_w2), w2, angle(i_w2)/deg);
+xr = [-1, 1];
+yr = xr;
+
+for it1 = ones(1,20)/5 %, ones(1,7)*1.2]
+    xmin = xr(1);
+    xmax = xr(2);
+    ymax = yr(2);
+    ymin = yr(1);
+    dx = xmax-xmin;
+    dy = ymax-ymin;
+    res = 1000;
+    x = linspace(xmin, xmax, round(res * dx / dy));
+    y = linspace(ymin, ymax, res)';
+    n = 50;
+    
+    z = x + 1i * y;
+    cvc = z * 0;
+    for it = 1:n
+        z = 2*z + z.^2 + 1./z;
+        cvc((isnan(z) | isinf(z)) & cvc == 0) = it;
+    end
+    cvc(cvc == 0) = n;
+    mn = min(min(cvc));
+    cvc = (cvc - mn) / (n - mn);
+    imshow(cvc, "XData",x, "YData",y);
+    colormap("bone");
+    axis on;
+    [x0, y0] = ginput(1);
+    xr = x0 + [-dx*it1 dx*it1];
+    yr = y0 + [-dy*it1 dy*it1];
+end
