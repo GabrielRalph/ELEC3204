@@ -56,6 +56,7 @@
 	.st49{fill:none;stroke:#ED1C24;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0.4951,0.9903;}
 	.st50{font-size:3px;}
 	.st51{fill:#1075A1;}
+	.st52{opacity:0.5;fill:none;stroke:#1075A1;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0.5,1;}
 </style>
 <g id="Layer_2">
 </g>
@@ -95,10 +96,9 @@
 			<line class="st24" x1="30.8" y1="14.7" x2="30.8" y2="18.9"/>
 			<line class="st24" x1="37.8" y1="14.7" x2="37.8" y2="18.9"/>
 			<line class="st24" x1="67.1" y1="14.8" x2="67.1" y2="16.3"/>
-			<line class="st24" x1="37.8" y1="13.2" x2="37.8" y2="14.7"/>
 			<line class="st24" x1="8.5" y1="23.1" x2="7.2" y2="23.1"/>
 			<text transform="matrix(1 0 0 1 64.5049 19.3952)" class="st33 st34 st35">2π</text>
-			<text transform="matrix(1 0 0 1 36.8335 12.6152)" class="st33 st34 st35">π</text>
+			<text transform="matrix(1 0 0 1 36.0816 21.5903)" class="st33 st34 st35">π</text>
 			<text transform="matrix(1 0 0 1 33.1556 18.1299)" class="st34 st35">α</text>
 			<text transform="matrix(1 0 0 1 21.3147 18.5077)" class="st34 st35">Φ</text>
 			<g class="st22">
@@ -178,7 +178,12 @@
 			<text transform="matrix(1 0 0 1 1.8602 30.0668)" class="st33 st38 st50">PWM</text>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 31.9167 4.9797)" class="st51 st34 st35">v</text>
-	<text transform="matrix(0.583 0 0 0.583 33.6921 6.3118)" class="st51 st34 st35">ab</text>
+	<text transform="matrix(1 0 0 1 29.8347 5.333)" class="st51 st34 st35">v</text>
+	<text transform="matrix(0.583 0 0 0.583 31.6101 6.665)" class="st51 st34 st35">ab</text>
+	<g class="st33">
+		<text transform="matrix(1 0 0 1 34.3062 11.1511)" class="st51 st34 st35">v</text>
+		<text transform="matrix(0.583 0 0 0.583 36.0816 12.4832)" class="st51 st34 st35">1</text>
+	</g>
+	<path class="st52" d="M67.1,14.7c-4.7,3.7-9.3,7.4-14.7,7.4c-10.7,0-18.7-14.9-29.3-14.9c-5.3,0-10,3.7-14.6,7.4"/>
 </g>
 </svg>
